@@ -7,6 +7,6 @@
 <title>Webapp javalogin</title>
 </head>
 <body>
-Already registered!! <a href="login">Login Here</a>
+Webapp Already registered!! <a href="login">Login Here</a>
 </body>
 </html>
